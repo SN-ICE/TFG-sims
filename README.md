@@ -1,8 +1,5 @@
 # TFG-sims
 
--ENGLISH-
----------
-
 In this study, the following has been carried out:
 
 1.-A FLOWS simulation
