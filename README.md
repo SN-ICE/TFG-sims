@@ -28,7 +28,8 @@ The code is divided into four sections:
 -Finally, a miscellaneous section where other illustrative graphs are made for the memory.
 
 
-For flows.ipynb to work, the text files of the 'TFG-sims/fotometrías' folder must be saved in the same folder where it is located. In addition, it is necessary to previously generate three folders called 'resultados', 'Fit' and 'txt2'. 
+For flows.ipynb to work, the text files of the 'TFG-sims/fotometrías' folder must be saved in the same folder where it is located. In addition, it is necessary to previously generate three folders called 'resultados', 'Fit' and 'txt2'.
+
 If you want to use the #ALEATORIOS# section, you also need to create a folder called 'txt', but it is better to use #COMBINATORIA# instead.
 
 If you want to process directly the results obtained without performing the simulations, you will have to paste the files in the folder 'TFG-sims/resultados' and 'TFG-sims/referencias' folder in the 'resultados' folder.
@@ -82,6 +83,7 @@ El codigo está dividio en cuatro secciones:
 -Finalmente, una sección de miscelanea donde se realizan otras gráficas ilustrativas para la memoria.
 
 Para el funcionamiento de flows.ipynb se necesita guardar, en la misma carpeta donde se encuentra, los archivos de textos de la carpeta de 'TFG-sims/fotometrías'. Además, es necesario generar previamente tres carpetas llamadas 'resultados', 'Fit' y 'txt2'. 
+
 Si se quiere utilizar el apartado de ##ALEATORIO# también es necesario crear una carpeta llamada 'txt', pero es mejor utilizar #COMBINATORIA#  en su lugar.
 
 Si se quiere tratar directamente los resultados obtenidos sin realizar las simulaciones se deberá pegar los archivos de la carpeta 'TFG-sims/resultados' y 'TFG-sims/referencias' en la carpeta 'resultados'.
